@@ -1,4 +1,4 @@
-# Vehicle-Control
+# A Two Wheels Self-Balanced Robot 
 
 Controllo Robusto di un Pendolo Inverso su Carrello.
 Implementazione di un controllore H-infinito robusto , L1 robusto e H2 robusto.

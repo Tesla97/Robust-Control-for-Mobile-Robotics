@@ -10,3 +10,5 @@ Confronto delle prestazioni dei controlli così ottenuti con controllori classic
 
 Implementazione simulazione in Matlab tramite uso di SimMechanics.
 
+Ideato e Realizzato Interamente da Nicola Corea per il corso di Controllo dei Veicoli LM Automazione.
+
